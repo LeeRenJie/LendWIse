@@ -3,9 +3,9 @@ This is a comprehensive loan management system designed to streamline the loan a
 
 
 # Frameworks
-**Frontend**: React JS with Typescript, in functional based code styling.
-**State management**: Redux Toolkit
- 
-**Backend**: Express JS with Typescript, for REST API Development.
-**ORM**: Prisma
-**Database**: Relational database (Postgres/mySQL)
+- **Frontend**: React JS with Typescript, in functional based code styling.
+- **State management**: Redux Toolkit
+- **Backend**: Express JS with Typescript, for REST API Development.
+- **ORM**: Prisma
+- **Database**: Relational database (Postgres/mySQL)
+- **Auth**: Passport.js
