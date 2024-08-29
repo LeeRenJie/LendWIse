@@ -9,3 +9,9 @@ This is a comprehensive loan management system designed to streamline the loan a
 - **ORM**: Prisma
 - **Database**: Relational database (Postgres/mySQL)
 - **Auth**: Passport.js
+
+# Key features include:
+- A user-friendly loan application form that captures essential applicant information.
+- Integration with credit score checking services to assess applicant creditworthiness.
+- A loan management module that tracks the status of applications (pending, approved, rejected) and displays simple repayment schedules.
+- An administrative dashboard that enables staff to review loan applications and make approval or rejection decisions.
